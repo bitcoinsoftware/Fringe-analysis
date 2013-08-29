@@ -1,0 +1,10 @@
+Photo:  C:\Users\noname\Desktop\INTERFER\workspace\prazki\dziura1mala.bmp
+Data: Sat Jul 16 15:31:48 2011
+Comment: 
+Upper fringes - CONCENTRATION C
+Diffusion range: 0
+x[mm]		Value 
+
+Down fringes - CONCENTRATION C
+Diffusion range: 0.0
+x[mm]		Value 

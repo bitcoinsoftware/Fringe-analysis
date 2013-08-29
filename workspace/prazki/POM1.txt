@@ -1,0 +1,10 @@
+Photo:  C:\Users\noname\Desktop\INTERFER\workspace\prazki\POM1.jpg
+Data: Sat Jul 16 02:30:00 2011
+Comment: 
+Upper fringes - CONCENTRATION C
+Diffusion range: 0.0
+x[mm]		Value 
+
+Down fringes - CONCENTRATION C
+Diffusion range: 0
+x[mm]		Value 

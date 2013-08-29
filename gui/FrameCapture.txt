@@ -1,0 +1,19 @@
+Uruchomienie programu:
+
+Framecapture.exe "plik_video" "folder docelowy" interwal 'prefix_zdjêæ' {rozszerzenie}   
+(ostatnie dwa paramtetry s¹ opcjonalne)
+lub
+
+Framecapture.exe help  -> wszystko o wywo³aniu bedzie.
+
+
+Aby program dzia³a³ poprawnie potrzeba:
+- Zainstalowany .NET framework w wersji przynajmniej 2.0 (W Viscie i 7 jest to juz zainstalowane);
+- DirectShow filters -> darmowe codeci. Wystarczy, ¿e zaisntalujesz sobie pakiet K-lite codec pack, czy coœ podobnego. 
+
+Im mocniejszy sprzêt, tym szybciej to bêdzie dzia³a³o. Minimalny interwal to 200ms, ale dzia³a wtedy wolno:/
+
+Testowane na formatach: .avi, .mpeg, .mp4
+Dzia³a pewnie na innych równie¿.
+
+Niestety nie mog³em uruchomiæ dziada z plikami .wmv :/
